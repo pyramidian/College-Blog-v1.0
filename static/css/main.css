@@ -68,6 +68,7 @@ p.info a {
 .menu ul li {
     list-style: none;
     margin: 5px 0;
+    color: #212121;
 }
 
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
@@ -90,7 +91,7 @@ li.current-menu-item:before {
     display: block;
     text-decoration: none;
     padding: 0 0 0 10px;
-    color: #212121;
+    color: #fff;
 }
 .home-subtitle {
     font-size: 26px;
