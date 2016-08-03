@@ -5,7 +5,8 @@ logo: static/img/avatar.png
 github: https://github.com/pyramidian
 about: Mechanical Engineering Student at RIT
 
-baseurl: ""
+baseurl: /College-Blog-v1.0/
+nodeurl: /College-Blog-v1.0/about
 url: "https://pyramidian.github.io/College-Blog-v1.0"
 
 disqus_shortname: aboutashu
