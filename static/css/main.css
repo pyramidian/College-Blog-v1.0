@@ -152,7 +152,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     color: #BCCCBF;
 }
 .menu .list-group-item-heading, .menu .list-group-item-text{
-    color:#fff!important;
+    color:#212121!important;
 }
 @media (max-width: 768px) {
     #portfolio-filter {
